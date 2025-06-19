@@ -5,3 +5,4 @@ description = "Persistent memory for AI coding agents. Local-first, cross-sessio
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # drop an unused branch
+# guard against empty input
